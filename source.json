@@ -8,6 +8,10 @@
     },
     "description":"VPM Listing of PJKT Avatar Swag",
     "bannerUrl":"banner.png",
+        "infoLink":{
+        "url":"https://github.com/ProjektCommunity/avatar-swag-vpm/",
+        "text":"View on GitHub"
+    },
     "githubRepos":[
     ],
     "packages":[
